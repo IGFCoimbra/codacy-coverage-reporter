@@ -1,4 +1,4 @@
 exclude_paths:
   - '**/transformation/**'
   - 'project/**'
-  - './src/main/resources/**'
+  - '.src/main/resources/**'
